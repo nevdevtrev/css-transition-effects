@@ -5,7 +5,6 @@
     border-radius: 50%;
     top: 0;
     position: relative;
-    margin: 25px;
     animation: jump alternate infinite .5s ease-in-out;
 
 }
